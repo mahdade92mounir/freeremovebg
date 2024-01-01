@@ -1,7 +1,5 @@
 Pillow
 Flask
-torch
 opencv-python
 scikit-image
-gunicorn
 rembg
